@@ -1,4 +1,0 @@
-<html>
-<head>yyy</head>
-<body>gg</body>
-</html>
